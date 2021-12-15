@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Akbotmakersnew logo">
+  <img src="logo(1).jpg" alt="Akbotmakersnew logo">
 
 # LUCIFER VC USERBOT
 
