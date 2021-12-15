@@ -1,13 +1,13 @@
 {
-    "name": "EvaMaria",
+    "name": "LuciferVCbot",
     "description": "Telegram UserBot for Video Chat.",
-    "logo": "https://telegra.ph/file/e99fd5f4e72127ed67c65.jpg",
+    "logo": "https://telegra.ph/file/dd8f845ad5e897645054e.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Mr-dark-prince/EvaMaria",
+    "repository": "https://github.com/Akbotmakersnew/LuciferVCbot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
