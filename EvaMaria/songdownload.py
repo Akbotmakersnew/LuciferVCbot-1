@@ -66,7 +66,7 @@ async def song(client, message: Message):
     c_time = time.time()
     capy = f"""
 **🏷️ Name:** [{thum}]({mo})
-**🎧 Requested by:** {message.from_user.mention}
+**❤ Source:** [Here is repo](https://github.com/Akbotmakersnew/LuciferVCbot)
 """
     file_stark = f"{ytdl_data['id']}.mp3"
     await client.send_audio(
