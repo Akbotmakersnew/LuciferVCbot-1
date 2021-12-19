@@ -151,7 +151,7 @@ async def play(client, m: Message):
                     caption=f"""
 **▶ Playing song
 🏷️ Name: [{songname}]({link})
-💬 Chat ID: {chat_id}
+❤ Source: https://github.com/Akbotmakersnew/LuciferVCbot
 🎧 Requested by: {m.from_user.mention}**
 """,
                 )
