@@ -10,7 +10,7 @@
 * API_HASH - From [my.telegram.org](https://my.telegram.org)
 * API_ID - From [my.telegram.org](https://my.telegram.org)
 * HNDLR - Use / or .
-* SESSION - From [Session gen bot](https://t.me/genStr_robot)
+* SESSION - [From here](https://tgsession.infotelbot.com/)
 * SUDO_USERS - User ID list user counts as admin everywhere(separator using space)
 
 # ABOUT
