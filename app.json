@@ -10,7 +10,7 @@
     "repository": "https://github.com/Akbotmakersnew/LuciferVCbot",
     "env": {
         "SESSION": {
-            "description": "Pyrogram String Session",
+            "description": "Pyrogram String Session. From https://tgsession.infotelbot.com/",
             "required": true
         },
         "API_ID": {
