@@ -151,7 +151,7 @@ async def play(client, m: Message):
                     caption=f"""
 **▶ Playing song
 🏷️ Name: [{songname}]({link})
-❤ Source: https://github.com/Akbotmakersnew/LuciferVCbot
+❤ Source: [here](https://github.com/Akbotmakersnew/LuciferVCbot)
 🎧 Requested by: {m.from_user.mention}**
 """,
                 )
@@ -182,7 +182,7 @@ async def play(client, m: Message):
                             caption=f"""
 **#⃣ Song added▪️Position {pos}
 🏷️ Name: [{songname}]({url})
-💬 Chat ID: {chat_id}
+❤ Source: [here](https://github.com/Akbotmakersnew/LuciferVCbot)
 🎧 Requested by: {m.from_user.mention}**
 """,
                         )
@@ -203,7 +203,7 @@ async def play(client, m: Message):
                                 caption=f"""
 **▶ Start Playing Song
 🏷️ Name: [{songname}]({url})
-💬 Chat ID: {chat_id}
+❤ Source: [here](https://github.com/Akbotmakersnew/LuciferVCbot)
 🎧 Requested by: {m.from_user.mention}**
 """,
                             )
@@ -248,7 +248,7 @@ async def vplay(client, m: Message):
                     caption=f"""
 **#⃣ Vedio added▪️Position {pos}
 🏷️ Name: [{songname}]({link})
-💬 Chat ID: {chat_id}
+❤ Source: [here](https://github.com/Akbotmakersnew/LuciferVCbot)
 🎬 Requested by: {m.from_user.mention}**
 """,
                 )
@@ -272,7 +272,7 @@ async def vplay(client, m: Message):
                     caption=f"""
 **▶ Start Playing Video
 🏷️ Name: [{songname}]({link})
-💬 Chat ID: {chat_id}
+❤ Source: [here](https://github.com/Akbotmakersnew/LuciferVCbot)
 🎬 Requested by: {m.from_user.mention}**
 """,
                 )
@@ -307,7 +307,7 @@ async def vplay(client, m: Message):
                             caption=f"""
 **#⃣ Vedio added▪️Position {pos}
 🏷️ Name: [{songname}]({url})
-💬 Chat ID: {chat_id}
+❤ Source: [here](https://github.com/Akbotmakersnew/LuciferVCbot)
 🎬 Requested by: {m.from_user.mention}**
 """,
                         )
@@ -326,7 +326,7 @@ async def vplay(client, m: Message):
                                 caption=f"""
 **▶ Start Playing Video
 🏷️ Name: [{songname}]({url})
-💬 Chat ID: {chat_id}
+❤ Source: [here](https://github.com/Akbotmakersnew/LuciferVCbot)
 🎬 Requested by: {m.from_user.mention}**
 """,
                             )
@@ -375,7 +375,7 @@ async def playfrom(client, m: Message):
                         caption=f"""
 **▶ Start Playing Songs From {chat}
 🏷️ Name: [{songname}]({link})
-💬 Chat ID: {chat_id}
+❤ Source: [here](https://github.com/Akbotmakersnew/LuciferVCbot)
 🎧 Requested by: {m.from_user.mention}**
 """,
                     )
