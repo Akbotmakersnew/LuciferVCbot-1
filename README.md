@@ -20,9 +20,9 @@ Don't want BOT_TOKEN from [BOT FATHER](https://t.me/botfather)
 
 # COMMANDS 👇
 
-/play - Play audio (Files or Links).
-/vplay - Play video (Files or Links).
-/stop - Stop playing.
+* /play - Play audio (Files or Links).
+* /vplay - Play video (Files or Links).
+* /stop - Stop playing.
 
 # DEVS
 
