@@ -1,5 +1,5 @@
 {
-    "name": "LuciferVCbot",
+    "name": "LuciferVCbot-2",
     "description": "Telegram UserBot for Video Chat.",
     "logo": "https://telegra.ph/file/dd8f845ad5e897645054e.jpg",
     "keywords": [
@@ -7,10 +7,10 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Akbotmakersnew/LuciferVCbot",
+    "repository": "https://github.com/Akbotmakersnew/LuciferVCbot-2",
     "env": {
         "SESSION": {
-            "description": "Pyrogram String Session. From https://tgsession.infotelbot.com/",
+            "description": "Pyrogram String Session. From https://t.me/Python_StringGen_bot",
             "required": true
         },
         "API_ID": {
