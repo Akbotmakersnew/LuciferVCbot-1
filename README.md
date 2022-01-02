@@ -3,7 +3,7 @@
 
 # LUCIFER VC USERBOT
 
-# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LuciferVCbot)
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LuciferVCbot-2)
 
 # VARS
 
@@ -23,7 +23,7 @@ Don't want BOT_TOKEN from [BOT FATHER](https://t.me/botfather)
 * /play - Play audio (Files or Links).
 * /vplay - Play video (Files or Links).
 * /stop - Stop playing.
-
+* /playlist
 # DEVS
 
 DEV: [JOKER TG](https://t.me/IAM_A_JOKER)
