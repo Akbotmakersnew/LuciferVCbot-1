@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+AkBotDev's+Repo!;created+by+JOKER+TG!;A+simple+SONG+&+VIDEO+PLAYING+bot!)</p>
 <p align="center">
   <img src="logo(1).jpg" alt="Akbotmakersnew logo">
 
