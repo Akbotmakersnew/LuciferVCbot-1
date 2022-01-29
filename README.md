@@ -2,7 +2,7 @@
 <p align="center">
   <img src="logo(1).jpg" alt="Akbotmakersnew logo">
 
-# LUCIFER VC USERBOT
+# LUCIFER VC BOT
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # DEPLOY ON HEROKU OR RAILWAY
