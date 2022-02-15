@@ -5,11 +5,11 @@
 # LUCIFER VC BOT
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# DEPLOY ON HEROKU OR RAILWAY
+# DEPLOY ON HEROKU
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LuciferVCbot-1)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAkbotmakersnew%2FLuciferVCbot-1)
+<iframe src="https://scratch.mit.edu/projects/644101341/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 # VARS
 
