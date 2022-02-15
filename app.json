@@ -11,24 +11,24 @@
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session. From https://t.me/Python_StringGen_bot",
-            "required": true,
+            "required": true
         },
         "API_ID": {
             "description": "Your api id from my.telegram.org/apps",
-            "required": true,
+            "required": true
         },
         "HNDLR": {
             "description": "Set handler",
-            "required": false,
+            "required": false
             "value": "/"
         },
         "API_HASH": {
             "description": "Your api hash from my.telegram.org/apps",
-            "required": true,
+            "required": true
         },
         "SUDO_USERS": {
             "description": "User ID list user counts as admin everywhere(separator using space)",
-            "required": true,
+            "required": true
         }
     },
     "addons": [],
